@@ -1,4 +1,4 @@
-(https://www.kaggle.com/muhammetvarl/laptop-pr_ce)
+(https://www.kaggle.com/muhammetvarl/laptop-price)
 datasetini kullanarak
 "Marka",
 "GPU",
