@@ -1,4 +1,3 @@
-[# PYTHON_PROJECT]
 (https://www.kaggle.com/muhammetvarl/laptop-pr_ce)
 datasetini kullanarak
 "Marka",
